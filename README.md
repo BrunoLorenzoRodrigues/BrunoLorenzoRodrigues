@@ -37,7 +37,7 @@ Aqui estão as minhas metas atuais de aprendizado e desenvolvimento:
 Sinta-se à vontade para me acompanhar nessa jornada!
 
 <p left>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="www.linkedin.com/in/brunolorenzorodrigues" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
