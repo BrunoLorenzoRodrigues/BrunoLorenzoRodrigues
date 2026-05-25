@@ -1,6 +1,10 @@
 # 👋 Olá, eu sou o Bruno Lorenzo!
 
-Seja bem-vindo ao meu perfil do GitHub! Estou iniciando minha jornada no mundo da programação e usando este espaço para registrar minha evolução e projetos.
+Seja bem-vindo ao meu perfil do GitHub! 🛡️💻
+
+Sou um entusiasta da tecnologia focado em **Cibersegurança** e, atualmente, estou mergulhando de cabeça no mundo do desenvolvimento de software. Acredito que para defender ou testar sistemas com eficiência, precisamos entender a fundo como os códigos e suas linguagens são construídos. 
+
+Estou usando este espaço para documentar minha evolução, postar meus projetos de programação e registrar minha jornada rumo a me tornar um profissional completo em Segurança da Informação.
 
 ---
 
@@ -15,7 +19,7 @@ Aqui estão as minhas metas atuais de aprendizado e desenvolvimento:
   - [ ] HTML5 (Estrutura dos sites)
   - [ ] CSS3 (Estilização e Design)
   - [ ] JavaScript (Lógica e Interatividade)
-- [ ] Aprender a linguagem Python 🐍
+- [ ] Aprender a linguagem Python 🐍 (Fundamental para automação em Cyber)
 
 ---
 
@@ -34,7 +38,7 @@ Aqui estão as minhas metas atuais de aprendizado e desenvolvimento:
 
 ## 📫 Conecte-se comigo:
 
-Sinta-se à vontade para me acompanhar nessa jornada!
+Sinta-se à vontade para me acompanhar nessa jornada ou trocar uma ideia!
 
 <p left>
   <a href="https://www.linkedin.com/in/brunolorenzorodrigues" target="_blank">
