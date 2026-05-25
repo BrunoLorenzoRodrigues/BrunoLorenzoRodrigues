@@ -45,13 +45,3 @@ Sinta-se à vontade para me acompanhar nessa jornada!
 ---
 
 💡 *“A melhor forma de prever o futuro é criá-lo.”*
-## 📈 Minhas Estatísticas
-
-Abaixo, o GitHub vai atualizar automaticamente o meu progresso:
-
-| ![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=BrunoLorenzoRodrigues&show_icons=true&theme=radial) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLorenzoRodrigues&layout=compact&theme=radial) |
-| --- | --- |
-Abaixo, o GitHub vai atualizar automaticamente o meu progresso:
-
-| ![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=BrunoLorenzoRodrigues&show_icons=true&theme=radial) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLorenzoRodrigues&layout=compact&theme=radial) |
-| --- | --- |
