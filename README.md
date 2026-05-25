@@ -32,6 +32,19 @@ Aqui estão as minhas metas atuais de aprendizado e desenvolvimento:
 
 ---
 
+## 📫 Conecte-se comigo:
+
+Sinta-se à vontade para me acompanhar nessa jornada!
+
+<p left>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+💡 *“A melhor forma de prever o futuro é criá-lo.”*
 ## 📈 Minhas Estatísticas
 
 Abaixo, o GitHub vai atualizar automaticamente o meu progresso:
